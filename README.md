@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm a Frontend Developer.
+- 👨‍💻 I'm a Fullstack Developer with a strong focus on Frontend in Javascript background.
+- 🔭 I’m currently working on my personal projects chat application and wallpaper mobile application.
 
 
 ## 🌐 Socials:
